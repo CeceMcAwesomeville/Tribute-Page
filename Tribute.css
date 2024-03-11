@@ -1,0 +1,89 @@
+#main {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 20px;
+  }
+  body {
+    background-color: black;
+    color: white;
+    font-family: "Almarai", sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: "Rock 3D", cursive;
+    font-size: 140px;
+    font-weight: lighter;
+  }
+  
+  #h2 {
+    word-spacing: 300px;
+    color: red;
+    text-align: center;
+    margin-top: -150px;
+    font-size: 72px;
+    font-family: "Archivo Black", sans-serif;
+  }
+  
+  #quote {
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 36px;
+  }
+  
+  #quote-by {
+    color: grey;
+    font-size: 27px;
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 100px auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    margin-top: -90px;
+    color: grey;
+    font-size: 27;
+  }
+  
+  #tribute-info {
+    margin: 10px 50px;
+    font-size: 120px;
+    font-family: "Rock 3D";
+    font-weight: lighter;
+  }
+  
+  .dates {
+    color: red;
+    font-size: 50px;
+    font-family: "Rubik Dirt", cursive;
+    font-weight: 200;
+    margin: ;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 10px auto;
+    color: lightGrey;
+    letter-spacing: 5px;
+  }
+  
+  footer {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  #tribute-link {
+    color: grey;
+    text-decoration: none;
+    font-family: "Rubik Dirt";
+    font-weight: lighter;
+  }
+  
+  #tribute-link:hover {
+    color: red;
+  }
