@@ -5,14 +5,14 @@
   }
   body {
     background-color: black;
-    color: white;
+    color: #e1b382;
     font-family: "Almarai", sans-serif;
   }
   
   h1 {
     text-align: center;
     font-family: "Rock 3D", cursive;
-    font-size: 140px;
+    font-size: 35px;
     font-weight: lighter;
   }
   
@@ -21,19 +21,15 @@
     color: red;
     text-align: center;
     margin-top: -150px;
-    font-size: 72px;
-    font-family: "Archivo Black", sans-serif;
+    font-size: 30pxpx;
+    font-family: "Gill-Sans", sans-serif;
+      font-color: #2d545e;
   }
   
   #quote {
     text-align: center;
     letter-spacing: 3px;
-    font-size: 36px;
-  }
-  
-  #quote-by {
-    color: grey;
-    font-size: 27px;
+    font-size: 18px;
   }
   
   #image {
@@ -46,20 +42,21 @@
   #img-caption {
     text-align: center;
     margin-top: -90px;
-    color: grey;
+    color: #2d545e;
     font-size: 27;
   }
   
   #tribute-info {
     margin: 10px 50px;
-    font-size: 120px;
-    font-family: "Rock 3D";
+    font-size: 17px;
+    font-family: "Gill-Sans", Sans-serif;
     font-weight: lighter;
+    color: #2d545e;
   }
   
   .dates {
-    color: red;
-    font-size: 50px;
+    color: silver;
+    font-size: 20px;
     font-family: "Rubik Dirt", cursive;
     font-weight: 200;
     margin: ;
@@ -68,7 +65,7 @@
   ul {
     list-style-type: none;
     margin: 10px auto;
-    color: lightGrey;
+    color: #2d545e;
     letter-spacing: 5px;
   }
   
@@ -85,5 +82,5 @@
   }
   
   #tribute-link:hover {
-    color: red;
+    color: blue;
   }
